@@ -1,6 +1,11 @@
 text2dict-rime
 ==============
-一个Python脚本，可以根据已有的中文文档中生成`rime`自定义词库。
+一个Python脚本，可以根据已有的中文文档来生成`Rime`自定义词库。
+
+- 中文文档转为纯文本
+- `jieba`分词提取词库信息
+- `pypinyin`将分词结果转换为`pinyin`
+- 生成`Rime`的自定义词库
 
 ## Python环境
 基于`jieba`与`pypinyin`开发，安装依赖：
@@ -41,3 +46,4 @@ pip install -r requirements.txt
        # - cn_dicts/mydict
        - user-defined
      ```
+5. 重新部署`Rime`
