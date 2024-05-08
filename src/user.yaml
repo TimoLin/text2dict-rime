@@ -1,0 +1,11 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# https://github.com/TimoLin/text2dict-rime
+#
+---
+name: Timo
+version: "2024.3.8"
+sort: by_weight
+use_preset_vocabulary: true
+...
