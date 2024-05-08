@@ -1,0 +1,385 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# https://github.com/TimoLin/text2dict-rime
+#
+---
+name: Timo
+version: "2024.3.8"
+sort: by_weight
+use_preset_vocabulary: true
+...
+湍流	tuan liu	100
+具有	ju you	100
+以下	yi xia	100
+特征	te zheng	100
+不规则	bu gui ze	100
+总是	zong shi	100
+高度	gao du	100
+的	de	100
+因此	yin ci	100
+问题	wen ti	100
+通常	tong chang	100
+利用	li yong	100
+统计学	tong ji xue	100
+处理	chu li	100
+是	shi	100
+混沌	hun dun	100
+然而	ran er	100
+并	bing	100
+不是	bu shi	100
+所有	suo you	100
+流都	liu dou	100
+扩散性	kuo san xing	100
+中	zhong	100
+容易	rong yi	100
+获得	huo de	100
+能量	neng liang	100
+供应	gong ying	100
+倾向	qing xiang	100
+于	yu	100
+加速	jia su	100
+流体	liu ti	100
+混合物	hun he wu	100
+均质化	jun zhi hua	100
+混合	hun he	100
+负责	fu ze	100
+在	zai	100
+流动	liu dong	100
+增强	zeng qiang	100
+和	he	100
+增加	zeng jia	100
+质量	zhi liang	100
+动量	dong liang	100
+传输速率	chuan shu su lv	100
+特性	te xing	100
+称为	cheng wei	100
+扩散	kuo san	100
+用	yong	100
+扩散系数	kuo san xi shu	100
+来	lai	100
+描述	miao shu	100
+这种	zhe zhong	100
+现象学	xian xiang xue	100
+意义	yi yi	100
+上	shang	100
+定义	ding yi	100
+类似	lei si	100
+分子	fen zi	100
+扩散率	kuo san lv	100
+但	dan	100
+它	ta	100
+没有	mei you	100
+真正	zhen zheng	100
+物理	wu li	100
+取决于	qu jue yu	100
+条件	tiao jian	100
+而	er	100
+本身	ben shen	100
+此外	ci wai	100
+概念	gai nian	100
+假定	jia ding	100
+通量	tong liang	100
+平均	ping jun	100
+变量	bian liang	100
+梯度	ti du	100
+之间	zhi jian	100
+本构	ben gou	100
+关系	guan xi	100
+传输	chuan shu	100
+存在	cun zai	100
+最好	zui hao	100
+情况	qing kuang	100
+下	xia	100
+这个	zhe ge	100
+假设	jia she	100
+只是	zhi shi	100
+一个	yi ge	100
+近似值	jin si zhi	100
+定量分析	ding liang fen xi	100
+最	zui	100
+简单	jian dan	100
+方法	fang fa	100
+并且	bing qie	100
+已经	yi jing	100
+有	you	100
+许多	xu duo	100
+模型	mo xing	100
+应用	ying yong	100
+例如	li ru	100
+海洋	hai yang	100
+等	deng	100
+大型	da xing	100
+水体	shui ti	100
+可以	ke yi	100
+使用	shi yong	100
+理查森	li cha sen	100
+四	si	100
+三次	san ci	100
+幂	mi	100
+定律	ding lv	100
+找到	zhao dao	100
+该	gai	100
+系数	xi shu	100
+受	shou	100
+随机	sui ji	100
+漫步	man bu	100
+原理	yuan li	100
+约束	yue shu	100
+河流	he liu	100
+大洋流	da yang liu	100
+由	you	100
+埃尔德	ai er de	100
+公式	gong shi	100
+变体	bian ti	100
+给出	gei chu	100
+旋转	xuan zhuan	100
+性	xing	100
+非零	fei ling	100
+涡度	wo du	100
+其	qi	100
+在于	zai yu	100
+涡旋	wo xuan	100
+拉伸	la shen	100
+强	qiang	100
+三维	san wei	100
+涡流	wo liu	100
+生成	sheng cheng	100
+机制	ji zhi	100
+动力学	dong li xue	100
+由于	you yu	100
+角动量	jiao dong liang	100
+守恒	shou heng	100
+它们	ta men	100
+本质	ben zhi	100
+受到	shou dao	100
+与	yu	100
+方向	fang xiang	100
+涡量	wo liang	100
+分量	fen liang	100
+相应	xiang ying	100
+有关	you guan	100
+另一方面	ling yi fang mian	100
+伸缩	shen suo	100
+级联	ji lian	100
+建立	jian li	100
+维持	wei chi	100
+可	ke	100
+识别	shi bie	100
+结构	jie gou	100
+功能	gong neng	100
+核心	he xin	100
+意味着	yi wei zhe	100
+元素	yuan su	100
+体积	ti ji	100
+垂直于	chui zhi yu	100
+变薄	bian bao	100
+结果	jie guo	100
+径向	jing xiang	100
+长度	chang du	100
+尺度	chi du	100
+减小	jian xiao	100
+较大	jiao da	100
+分解成	fen jie cheng	100
+较	jiao	100
+小	xiao	100
+过程	guo cheng	100
+一直	yi zhi	100
+持续	chi xu	100
+到	dao	100
+小规模	xiao gui mo	100
+足够	zu gou	100
+以至于	yi zhi yu	100
+动能	dong neng	100
+通过	tong guo	100
+黏度	nian du	100
+转化	zhuan hua	100
+为	wei	100
+热量	re liang	100
+大气	da qi	100
+旋风	xuan feng	100
+基本上	ji ben shang	100
+二维	er wei	100
+形状	xing zhuang	100
+不	bu	100
+允许	yun xu	100
+产生	chan sheng	100
+不会	bu hui	100
+流是	liu shi	100
+分散	fen san	100
+是非	shi fei	100
+耗散	hao san	100
+为了	wei le	100
+需要	xu yao	100
+源	yuan	100
+因为	yin wei	100
+当	dang	100
+黏性	nian xing	100
+剪切应力	jian qie ying li	100
+内能	nei neng	100
+时	shi	100
+会	hui	100
+迅速	xun su	100
+消散	xiao san	100
+导致	dao zhi	100
+形成	xing cheng	100
+不同	bu tong	100
+运动	yun dong	100
+大部分	da bu fen	100
+都	dou	100
+包含	bao han	100
+大	da	100
+惯性	guan xing	100
+无	wu	100
+从	cong	100
+这些	zhe xie	100
+更	geng	100
+继续	ji xu	100
+进行	jin xing	100
+创建	chuang jian	100
+越来越	yue lai yue	100
+层次结构	ceng ci jie gou	100
+最终	zui zhong	100
+了	le	100
+使得	shi de	100
+变得	bian de	100
+重要	zhong yao	100
+发生	fa sheng	100
+柯尔莫哥洛夫	ke er mo ge luo fu	100
+实现	shi xian	100
+一系列	yi xi lie	100
+流速	liu su	100
+波动	bo dong	100
+流上	liu shang	100
+叠加	die jia	100
+被	bei	100
+松散地	song san di	100
+压力	ya li	100
+连贯	lian guan	100
+模式	mo shi	100
+视为	shi wei	100
+很	hen	100
+宽	kuan	100
+范围	fan wei	100
+内	nei	100
+整个	zheng ge	100
+层次	ceng ci	100
+组成	zu cheng	100
+测量	ce liang	100
+每个	mei ge	100
+波数	bo shu	100
+能谱	neng pu	100
+可控	ke kong	100
+且	qie	100
+对称	dui chen	100
+根据	gen ju	100
+分为	fen wei	100
+三类	san lei	100
+积分	ji fen	100
+时间尺度	shi jian chi du	100
+拉格朗	la ge lang	100
+日流	ri liu	100
+其中	qi zhong	100
+速度	su du	100
+时间延迟	shi jian yan chi	100
+流中	liu zhong	100
+获取	huo qu	100
+也	ye	100
+彼此	bi ci	100
+频率	pin lv	100
+低	di	100
+各向异性	ge xiang yi xing	100
+归一化	gui yi hua	100
+两点	liang dian	100
+相关性	xiang guan xing	100
+标尺	biao chi	100
+最大	zui da	100
+设备	she bei	100
+限制	xian zhi	100
+管道	guan dao	100
+流量	liu liang	100
+等于	deng yu	100
+直径	zhi jing	100
+达到	da dao	100
+几百公里	ji bai gong li	100
+数量级	shu liang ji	100
+两个	liang ge	100
+位置	wei zhi	100
+距离	ju li	100
+同一	tong yi	100
+光谱	guang pu	100
+子层	zi ceng	100
+最小	zui xiao	100
+非线性	fei xian xing	100
+相互作用	xiang hu zuo yong	100
+输入	shu ru	100
+能量消耗	neng liang xiao hao	100
+完全	wan quan	100
+平衡	ping heng	100
+高频率	gao pin lv	100
+局部	ju bu	100
+各向同性	ge xiang tong xing	100
+均匀	jun yun	100
+泰勒	tai lei	100
+微尺度	wei chi du	100
+构成	gou cheng	100
+子	zi	100
+刻度	ke du	100
+中间	zhong jian	100
+而是	er shi	100
+将	jiang	100
+传递	chuan di	100
+一些	yi xie	100
+文献	wen xian	100
+认为	ren wei	100
+仅	jin	100
+后者	hou zhe	100
+同时	tong shi	100
+容纳	rong na	100
+用于	yong yu	100
+方便	fang bian	100
+地	di	100
+术语	shu yu	100
+空间	kong jian	100
+中起	zhong qi	100
+主导作用	zhu dao zuo yong	100
+尽管	jin guan	100
+控制	kong zhi	100
+方程	fang cheng	100
+特定	te ding	100
+解	jie	100
+对于	dui yu	100
+雷诺数	lei nuo shu	100
+有限	you xian	100
+扰动	rao dong	100
+稳定	wen ding	100
+对	dui	100
+初始条件	chu shi tiao jian	100
+边界条件	bian jie tiao jian	100
+敏感	min gan	100
+依赖	yi lai	100
+时间	shi jian	100
+统计	tong ji	100
+苏联	su lian	100
+数学家	shu xue jia	100
+安德烈	an de lie	100
+柯尔莫	ke er mo	100
+哥罗夫	ge luo fu	100
+提出	ti chu	100
+第一个	di yi ge	100
+理论	li lun	100
+基于	ji yu	100
+前面	qian mian	100
+提到	ti dao	100
+最初	zui chu	100
+自	zi	100
+相似性	xiang si xing	100
+以	yi	100
+他	ta	100
+名字	ming zi	100
+命名	ming ming	100
+现在	xian zai	100
+知道	zhi dao	100
+破坏	po huai	100
+目前	mu qian	100
+修改	xiu gai	100
