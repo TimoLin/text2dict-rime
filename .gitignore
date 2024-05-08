@@ -1,0 +1,6 @@
+# Editor backup files
+*~
+*.swp
+
+# Python cache
+__pycache__/
